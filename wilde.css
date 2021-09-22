@@ -28,3 +28,22 @@
 .phipps{
     color: violet;
 }
+
+table{
+    border: 20px;
+    color: black;
+    text-align: center;
+    border-collapse: collapse;
+    padding: 20px;
+    width: 170px;
+    size: 200px;
+    
+}
+td{
+    border: 1px solid blue;
+    color: greenyellow;
+    text-align: left;
+}
+tr:nth-child(even){
+    background-color: crimson ;
+}

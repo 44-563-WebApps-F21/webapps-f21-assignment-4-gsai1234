@@ -47,3 +47,7 @@ td{
 tr:nth-child(even){
     background-color: crimson ;
 }
+.goring:hover{
+    text-shadow: 2px 3px 5px viole;
+    border: blanchedalmond 20px solid;
+}
